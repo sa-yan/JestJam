@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JestJam</string>
+    <string name="tagLine">#laughUnleashed</string>
+    <string name="loading">Loading...</string>
+</resources>
